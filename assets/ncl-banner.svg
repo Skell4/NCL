@@ -10,8 +10,8 @@
 <g font-family="Segoe UI, Arial, sans-serif">
   <text x="142" y="186" fill="#E2E8F0" font-size="88" font-weight="700">NCL</text>
   <text x="145" y="256" fill="#7B68EE" font-size="31">Network Communication Library</text>
-  <line x1="145" y1="283" x2="600" y2="283" stroke="#E2E8F0" stroke-opacity=".8" stroke-width="1.2"/>
-  <text x="145" y="339" fill="#E2E8F0" font-size="21">A simple C++ library for TCP and UDP networking</text>
+  <line x1="145" y1="283" x2="675" y2="283" stroke="#E2E8F0" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="145" y="339" fill="#E2E8F0" font-size="21">A simple C++ library for TCP, UDP and HTTP networking</text>
 </g>
 <g transform="translate(945 142) scale(.58)" fill="none" stroke="url(#nclGradient)" stroke-width="14">
   <path d="M255 400 C435 400 440 145 735 145" stroke-linecap="round"/>
